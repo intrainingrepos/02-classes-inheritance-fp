@@ -6,9 +6,9 @@
 ### Author: Siobhan Niess
 
 ### Links and Resources
-* [repo](https://github.com/niesssiobhan/01-node-ecosystem/pull/3)
-* [travis](https://travis-ci.com/niesssiobhan/01-node-ecosystem)
-* [server](https://niess-01-lab.herokuapp.com/)
+* [repo](https://github.com/niesssiobhan/02-classes-inheritance-fp/blob/master/LAB.md)
+* [travis](https://travis-ci.com/niesssiobhan/02-classes-inheritance-fp)
+* [server](https://niess-02-lab.herokuapp.com/)
 
 ### Modules
 #### `modulename.js`
