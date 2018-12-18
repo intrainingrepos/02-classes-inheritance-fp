@@ -1,0 +1,23 @@
+{
+  "name": "02-classes-inheritance-fp",
+  "version": "1.0.0",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB\r =================================================",
+  "main": "index.js",
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niesssiobhan/02-classes-inheritance-fp.git"
+  },
+  "author": "siobhan niess",
+  "license": "ISC", 
+  "bugs": {
+    "url": "https://github.com/niesssiobhan/02-classes-inheritance-fp/issues"
+  },
+  "homepage": "https://github.com/niesssiobhan/02-classes-inheritance-fp#readme"
+}
