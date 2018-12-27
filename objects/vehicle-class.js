@@ -1,6 +1,5 @@
 'use strict';
 
-
 class Car extends Vehicle {
   constructor(name) {
     super(name, 4);
